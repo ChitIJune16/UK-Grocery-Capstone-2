@@ -37,10 +37,3 @@ Retailers should prioritize increasing distribution coverage for high-value item
 ***Modeling*** [Notebook](https://github.com/ChitIJune16/UK-Grocery-Capstone-2/blob/main/4_Modeling.ipynb)
 
 ***Reports***
-
-> [Final Report](https://github.com/ChitIJune16/UK-Grocery-Capstone-2/blob/main/Capstone%202%20Project%20Report%20%5BItchon%5D.pdf)
-
-> [Model Results Metrix Table](https://github.com/ChitIJune16/UK-Grocery-Capstone-2/blob/main/Capstone%202%20Metrics%20Table%20%5BItchon%5D.pdf)
-
-[Metrics Table] 
-https://github.com/ChitIJune16/UK-Grocery-Capstone-2/blob/main/Capstone%202%20Metrics%20Table%20%5BItchon%5D.pdf
