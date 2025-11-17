@@ -4,10 +4,12 @@
 This project analyzes UK grocery retail sales to determine how price and distribution breadth impact unit sales in brick-and-mortar stores.
 Because grocery retailers operate with fixed, limited shelf space, increasing unit movement is essential to maximizing sales and space productivity.
 Using a structured machine-learning workflow—Data Wrangling → EDA → Pre-Processing → Modeling → Predictions—the project identifies which levers most effectively drive unit sales for top-selling items.
+
 Key Outcomes:
 Distribution is the strongest driver of unit sales.  +10% distribution → +8.64% unit lift
 Price changes have minimal effect on most items  –10% price → +1.18% unit lift
 Random Forest delivered the highest predictive accuracy
+
 Business implication:
 Retailers should prioritize increasing distribution coverage for high-value items rather than broad price reductions.
 
