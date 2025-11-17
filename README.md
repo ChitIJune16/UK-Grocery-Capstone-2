@@ -15,3 +15,7 @@ Random Forest delivered the highest predictive accuracy
 
 ## Business implication:
 Retailers should prioritize increasing distribution coverage for high-value items rather than broad price reductions.
+
+## Repository Directory
+### Data Wrangling
+[Data Wrangling Notebook] https://github.com/ChitIJune16/UK-Grocery-Capstone-2/blob/main/1_Data_Wrangling.ipynb
